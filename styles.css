@@ -1,0 +1,33 @@
+body {
+  background-color: #C4D7E0;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  color: grey;
+}
+
+.top-container {
+  background-color: white;
+  height: 425px;
+  width: 270px;
+  margin: 25% auto;
+  border-radius: 15px;
+}
+
+.second-container {
+  margin: 0 15px 0 15px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.QRcode {
+  height: 250px;
+  width: 250px;
+  border-radius: 15px;
+  margin: 10px 10px 0 10px;
+}
