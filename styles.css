@@ -21,6 +21,7 @@ p {
 }
 
 .second-container {
+  color: hsl(218, 44%, 22%);
   margin: 0 15px 0 15px;
   font-family: 'Outfit', sans-serif;
 }
