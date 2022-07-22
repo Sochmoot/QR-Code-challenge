@@ -16,7 +16,7 @@ p {
 
 /* Class selectors */
 .top-container {
-  background-color: white;
+  background-color: hsl(0, 0%, 100%);
   height: 425px;
   width: 270px;
   margin: 25% auto;
