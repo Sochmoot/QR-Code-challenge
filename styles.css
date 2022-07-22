@@ -1,3 +1,4 @@
+/* Element selectors*/
 body {
   background-color:  hsl(212, 45%, 89%);
 }
@@ -12,6 +13,8 @@ p {
   color: grey;
 }
 
+
+/* Class selectors */
 .top-container {
   background-color: white;
   height: 425px;
