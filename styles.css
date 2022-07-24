@@ -1,6 +1,10 @@
 /* Element selectors*/
 body {
   background-color:  hsl(212, 45%, 89%);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h3 {
