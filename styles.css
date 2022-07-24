@@ -18,6 +18,10 @@ p {
   font-weight: 400;
 }
 
+footer {
+  margin: 40px 0 0 0
+}
+
 
 /* Class selectors */
 .top-container {
